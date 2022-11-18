@@ -1,3 +1,3 @@
 # Web-tekniikka-test
-Task of the Web-technic course, first repo
-There are my first steps in GitHub. 
+Task of the Web-technic course: Create first repository at GitHub.
+Here are my first steps in GitHub. 
